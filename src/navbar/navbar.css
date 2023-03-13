@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    font-size: 25px;
+    font-family: Arial;
+}
+
+  header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 5px;
+  }
+
+  a {
+    color: white;
+    text-decoration: none;
+    margin: 80px;
+}
+
+ul {
+
+  display: flex;
+  justify-content: space-between;
+  margin: 5px;
+  padding-left: 50vh;
+}
